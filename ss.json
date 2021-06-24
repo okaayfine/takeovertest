@@ -1,0 +1,11 @@
+{
+"bypassSpam": false,
+"email": "test@test.com",
+"emailConfirmed": true,
+"name": "<script>alert(1)</script>",
+"password": "P@ssw0rd",
+"photo": "",
+"roleID": [
+8
+]
+}
