@@ -1,11 +1,11 @@
 swagger: '2.0'
 info:
   version: 1.0.0
-  title: Echo
-  description: '<script>alert(document.domain)</script>'
+  title: Echo 
+  description: 'ss"><script>alert(document.domain)</script>'
 paths:
   /:
     get:
       responses:
         '200':
-          description: 'Echo GET<script>alert(document.domain)</script>'
+          description: Echo GET
